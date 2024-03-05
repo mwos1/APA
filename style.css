@@ -34,7 +34,56 @@ nav{
     height: 125px;
 }
 .first-section{
-    margin-left: 15px;
+    margin-left: 35px;
     padding-top: 40px;
+    width: 100%;
+}
+.second-section{
+    margin-left: 35px;
+    padding-top: 20px;
+    width: 100%;
+}
+#home-photo{
     width: 70%;
+    height: 500px;
+}
+.oferta{
+    padding-top: 30px;
+}
+#btn-home{
+    color: white;
+    font-size: large;
+    width: 150px;
+    height: 30px;
+    background: #db162a;
+    text-align: center;
+}
+#team{
+    width: 70%;
+    height: 500px;
+}
+footer{
+    margin: 0;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 21px;
+    width: 100%;
+}
+.footer-p{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+.products{
+    margin-left: 10px;
+    font-size: large;
+
+}
+form{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+h3{
+    width: 85%;
 }
